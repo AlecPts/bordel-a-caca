@@ -88,3 +88,13 @@ main a:hover {
     width: 14em;
     margin-top: -6em;
 }
+
+
+#tourner {
+    font-size: 10em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 1536px;
+    min-height: 400px;
+}
