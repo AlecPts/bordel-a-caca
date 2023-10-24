@@ -7,10 +7,6 @@ body {
     margin: 0;
 }
 
-body * {
-
-}
-
 
 header {
     grid-area: header;
@@ -67,26 +63,26 @@ main a:hover {
 }
 
 .reseaux {
-
     padding: 2em;
     list-style: none;
 }
 .reseaux * {
     display: flex;
     justify-content: center;
+    padding-bottom: 1em;
 }
 #discord-logo {
     height: 2em;
     width: 11em;
 }
 #steam-logo {
-    height: 10em;
-    width: 11.2em;
+    height: 3em;
+    width: 11em;
 }
 #of-logo {
-    height: 15em;
-    width: 14em;
-    margin-top: -6em;
+    height: 2em;
+    width: 11em;
+    padding: 0.5em;
 }
 
 
