@@ -14,7 +14,7 @@ body * {
 
 header {
     grid-area: header;
-    background-color: #6E0D25;
+    background-color: #A93F3D;
     height: 10px;
     display: flex;
     align-items: center;
@@ -29,7 +29,7 @@ header {
 }
 
 main {
-    background-color: #FFFFB3;
+    background-color: #FFE170;
     padding: 1.5em 2em;
     line-height: 1.3em;
     min-width: 1200px;
@@ -37,7 +37,7 @@ main {
 }
 
 aside {
-    background-color: #DCAB6B;
+    background-color: #FFB473;
     min-width: 100px;
 }
 
